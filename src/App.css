@@ -1,0 +1,31 @@
+:root {
+  --primaryColor: #2a2a72;
+  --secondaryColor: #009ffd;
+  --tertiaryColor: #c48104;
+  --mainWhite: #f3f3f3;
+  --mainDark: #232323;
+  --mainFont: 'Oswald', sans-serif;
+  --titleFont: 'Anton', sans-serif;
+}
+
+/* globals */
+
+body {
+  font-family: var(--mainFont) !important;
+  background: var(--mainWhite) !important;
+  color: var(--mainDark) !important;
+}
+
+.text-title {
+  font-family: var(--titleFont);
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+
+.text-main {
+  color: var(--primaryColor);
+}
+
+.text-bright {
+  color: var(--secondaryColor)
+}
