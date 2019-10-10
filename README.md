@@ -1,9 +1,13 @@
 Ecommerce React, em desenvolvimento.
-Como não achei uma API free parecida com um e-commerce, criei um arquivo com nome de data.js, para fazer uns testes.
+I didn't found a free API that looks like a e-commerce, then I make a file with the name of data.js, to do some tests.
 
-[LOGO](https://www.iconfinder.com/icons/2571374/energy_forecast_lightning_stormy_weather_icon)
+Imagens from:
 
-[Pixabay](https://pixabay.com/pt/)
+- [LOGO](https://www.flaticon.com/free-icon/key_1647720#term=key&page=1&position=9)
+
+- [Freepik](https://br.freepik.com/vetores-gratis/grupo-de-veiculos_5366323.htm)
+
+- [Freepik](https://br.freepik.com/vetores-gratis/conjunto-de-veiculos_4955104.htm)
 
 Google free font:
 
@@ -11,11 +15,15 @@ Google free font:
 - [Oswald](https://fonts.google.com/specimen/Oswald)
 
 Icons from:
+
 - [Font Awesome](https://fontawesome.com/)
 
 packages:
+
 - [React-Router-DOM](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Bootstrap](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
+- [Styled-Components](https://www.styled-components.com/docs)
+- [Contex-API](https://reactjs.org/docs/context.html#api)
 
 ======================================================================================================
 
